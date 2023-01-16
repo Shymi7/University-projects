@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea8afc09-ae18-484b-b1f7-f23808bc9fb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Components/Drawer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/MainScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Question.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/QuizScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Result.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/ResultsScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/SplashScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/TopBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/quizzesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/resultsData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IOZs64vA3QuceGNwvxpw8AfwwM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Android" type="ReactNative" factoryName="React Native">
+      <working-dir value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <react-native value="$USER_HOME$/AppData/Roaming/npm/node_modules/react-native-cli" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea8afc09-ae18-484b-b1f7-f23808bc9fb3" name="Changes" comment="" />
+      <created>1670054793981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670054793981</updated>
+      <workItem from="1670054795134" duration="24398000" />
+      <workItem from="1670783627650" duration="29331000" />
+      <workItem from="1671124287418" duration="1286000" />
+      <workItem from="1671287521175" duration="26085000" />
+      <workItem from="1671561407832" duration="1242000" />
+      <workItem from="1672503791215" duration="22733000" />
+      <workItem from="1672739367147" duration="7000" />
+      <workItem from="1673002948510" duration="1217000" />
+      <workItem from="1673194955228" duration="1256000" />
+      <workItem from="1673359884334" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
