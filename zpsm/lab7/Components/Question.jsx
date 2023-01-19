@@ -1,7 +1,15 @@
 import {StyleSheet, Text, View, Touchable, TouchableOpacity} from "react-native";
 
+import {useFonts} from 'expo-font';
+
+
+
 export default function Question({props, questionIndex, nextQuestionFunc}) {
     var _ = require('lodash');
+
+    const [fontsLoaded] = useFonts({
+        'Lato-Regular': require('../assets/fonts/Lato-Regular.ttf'),
+    });
 
     const choices =_.shuffle(props[questionIndex].answers.map(answer => {
         return (

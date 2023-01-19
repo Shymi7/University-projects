@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8afc09-ae18-484b-b1f7-f23808bc9fb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Components/Drawer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/MainScreen.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Question.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/QuizScreen.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Result.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/ResultsScreen.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/SplashScreen.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/TopBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/quizzesData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/resultsData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GokartyJava" beforeDir="false" afterPath="$PROJECT_DIR$/../../GokartyJava" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -78,6 +64,7 @@
       <workItem from="1673002948510" duration="1217000" />
       <workItem from="1673194955228" duration="1256000" />
       <workItem from="1673359884334" duration="11000" />
+      <workItem from="1674152756365" duration="2433000" />
     </task>
     <servers />
   </component>

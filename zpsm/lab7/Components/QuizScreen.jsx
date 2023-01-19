@@ -10,6 +10,7 @@ import NetInfo from "@react-native-community/netinfo";
 
 
 
+
 export default function QuizScreen({route}) {
 
     const [quizzesData, setQuizzesData] = useState([]);
